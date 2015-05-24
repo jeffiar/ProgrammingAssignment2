@@ -12,6 +12,13 @@ Programming Assignment you will take advantage of the scoping rules of
 the R language and how they can be manipulated to preserve state inside
 of an R object.
 
+### Adding text to README
+
+You can practice using git by adding some random text to README.
+Saratoga won the Team B science bowl tournament yesterday, so I'm
+a bit sad. But hopefully we win regionals again next year. Hm, is it
+possible to *bold*, _italicize_, or maybe do *_both_* with markdown?
+
 ### Example: Caching the Mean of a Vector
 
 In this example we introduce the `<<-` operator which can be used to
